@@ -1,4 +1,4 @@
 # meu primeiro arquivo subido ao git git hub
 
-soma = 5 + 5 
-print (soma)
+soma1 = 5 + 6
+print (soma1)
